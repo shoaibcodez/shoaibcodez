@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
-- 💬 Ask me about **C, C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, ExpressJS.**
+- 💬 Ask me about **C++, C, Java, Python, HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, ExpressJS.**
 
 - 📫 How to reach me **shoaibrajamolla@gmail.com**
 
